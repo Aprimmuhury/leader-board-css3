@@ -102,6 +102,12 @@ hr{
 .fa-star.empty{
     color: #AEAEAE;
 }
+.course-duration{
+    background-color: lightpink;
+    color: darkmagenta;
+    border: 2px;
+    border-radius: 5px;
+}
 
 /*------------------
     Media Queries
